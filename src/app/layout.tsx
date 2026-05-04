@@ -7,7 +7,8 @@ export const metadata: Metadata = {
     default: 'Complete Quarters | Coming Soon',
     template: '%s | Complete Quarters',
   },
-  description: 'Practical living, property, and household operations resources are being organized here.',
+  description:
+    'Practical living, property, and household operations resources are being organized here.',
   robots: {
     index: true,
     follow: true,
@@ -20,12 +21,14 @@ export const metadata: Metadata = {
     url: 'https://completequarters.com/',
     siteName: 'Complete Quarters',
     title: 'Complete Quarters | Coming Soon',
-    description: 'Practical living, property, and household operations resources are being organized here.',
+    description:
+      'Practical living, property, and household operations resources are being organized here.',
   },
   twitter: {
     card: 'summary',
     title: 'Complete Quarters | Coming Soon',
-    description: 'Practical living, property, and household operations resources are being organized here.',
+    description:
+      'Practical living, property, and household operations resources are being organized here.',
   },
 }
 
